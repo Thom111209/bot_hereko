@@ -1,0 +1,23 @@
+{
+  "name": "hydro",
+  "version": "9.0.6",
+  "description": "Bot de hydro",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thom111209/bot_hereko.git"
+  },
+  "author": "R??",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thom111209/bot_hereko/issues"
+  },
+  "homepage": "https://github.com/Thom111209/bot_hereko#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "install": "^0.13.0"
+  }
+}
